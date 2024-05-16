@@ -57,5 +57,7 @@ Data Retrieval Queries:
 
 Overall, the project aims to streamline library operations, enhance user experience, and promote efficient management of library resources.
 
+Overall, the project aims to streamline library operations, enhance user experience, and promote efficient management of library resources.
+
 
 

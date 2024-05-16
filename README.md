@@ -35,3 +35,7 @@ Retrieve available books, employee details, customer details, etc.
 List employees with salaries above a certain threshold.
 Display customers who registered before a specific date and have not issued any books yet.
 Show branch numbers along with the count of employees for branches having more than 5 employees.
+
+Overall, the project aims to streamline library operations, enhance user experience, and promote efficient management of library resources.
+
+

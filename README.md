@@ -41,7 +41,7 @@ Data Retrieval Queries:
 
 5.Retrieve the employee names and their positions for the employees whose salaries are above Rs. 50,000.
 
-6.List the customer names who registered before 2022-01-01 and have not issued any books yet.
+6.List the customer names who registered before 2022-01-01 and have not issued any books yet
 
 7. the branch numbers and the total count of employees in each branch.
    

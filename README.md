@@ -55,7 +55,7 @@ Data Retrieval Queries:
 
 12.Display the names of customers who have issued books with a rental price higher than Rs. 25.
 
-Overall, the project aims to streamline library operations, enhance user experience, and promote efficient management of library resources.
+Overall, the project aims to streamline library operations, enhance user experience, and promote efficient management of library resources
 
 
 
